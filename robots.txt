@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /ask
+Disallow: /about
+Disallow: /*.html$
